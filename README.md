@@ -35,7 +35,7 @@ A modern, animated Flutter application that allows users to select lottery numbe
 
 ## Video
 
-https://github.com/WolfOf420Street/Lottery/blob/main/docs/media/videos/demo-video.mp4
+https://github.com/WolfOf420Street/Lottery/blob/master/docs/media/videos/demo-video.mp4
 
 *Click to watch the demo video showing the Lottery Number Picker in action*
 
